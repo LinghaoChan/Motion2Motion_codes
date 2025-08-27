@@ -1,0 +1,31 @@
+{
+    "source_name": "Flamingo",
+    "target_name": "Monkey",
+    "root_joint": "Hips",
+    "mapping": [
+        {
+            "source": "Bip01_L_Calf",
+            "target": "Bip01_L_Calf"
+        },
+        {
+            "source": "Bip01_L_Thigh",
+            "target": "Bip01_L_Thigh"
+        },
+        {
+            "source": "Bip01_R_Calf",
+            "target": "Bip01_R_Calf"
+        },
+        {
+            "source": "Bip01_R_Thigh",
+            "target": "Bip01_R_Thigh"
+        },
+        {
+            "source": "Bip01_L_HorseLink",
+            "target": "Bip01_L_Foot"
+        },
+        {
+            "source": "Bip01_R_HorseLink",
+            "target": "Bip01_R_Foot"
+        }
+    ]
+}

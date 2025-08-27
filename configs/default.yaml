@@ -1,0 +1,22 @@
+# motion data config
+repr: 'repr6d'
+skeleton_name: null
+use_velo: true
+keep_up_pos: true
+up_axis: 'Y_UP'
+padding_last: false
+requires_contact: false
+joint_reduction: false
+skeleton_aware: false
+joints_group: null
+
+# generate parameters
+num_frames: '1x_nframes'
+alpha: 0.01
+num_steps: 3
+noise_sigma: 10.0
+coarse_ratio: '5x_patchsize'
+pyr_factor: 0.75
+num_stages_limit: -1
+patch_size: 11
+loop: false
