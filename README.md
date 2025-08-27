@@ -39,7 +39,16 @@
 
 ## 🚀Running Instructions
 
-### Motion2Motion running command:
+### 🔧 Installation
+
+Install the required Python packages using pip:
+
+```bash
+pip install -r requirements.txt
+```
+
+
+### 💻 Motion2Motion running command
 
 ```python
 python run_M2M.py \
@@ -67,7 +76,7 @@ Generated motions will be saved in the specified output directory (`output_dir`)
 
 
 
-### Configuration Files
+### 🔩Configuration Files
 
 Joint mapping files are available in the [`configs/`](configs/) directory to specify the bone binding relationships, aka. the sparse correspondences in the paper. The mapping files are in JSON format, and the structure is as follows:
 
@@ -109,11 +118,10 @@ If you find our work useful, please consider citing:
   title={Motion2Motion: Cross-topology Motion Transfer with Sparse Correspondence},
   author={Chen, Ling-Hao and Zhang, Yuhong and Yin, Zixin and Dou, Zhiyang and Chen, Xin and Wang, Jingbo and Komura, Taku and Zhang, Lei},
   booktitle={SIGGRAPH Asia 2025 Conference Papers},
-  pages={1--12},
   year={2025},
   publisher={ACM},
   doi={10.1145/3757377.3763811},
-  address={Hong Kong, Hong Kong},
+  address={Hong Kong, China},
   isbn={979-8-4007-2137-3/2025/12}
 }
 ```
