@@ -117,7 +117,7 @@ If you find our work useful, please consider citing:
 @inproceedings{chen2025motion2motion,
   title={Motion2Motion: Cross-topology Motion Transfer with Sparse Correspondence},
   author={Chen, Ling-Hao and Zhang, Yuhong and Yin, Zixin and Dou, Zhiyang and Chen, Xin and Wang, Jingbo and Komura, Taku and Zhang, Lei},
-  booktitle={SIGGRAPH Asia 2025 Conference Papers},
+  booktitle={SIGGRAPH Asia 2025},
   year={2025},
   publisher={ACM},
   doi={10.1145/3757377.3763811},
